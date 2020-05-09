@@ -1,5 +1,5 @@
 # MagicMirror
-This is my config for MagicMirror
+This is my config for MagicMirror (https://github.com/phanmemkhoinghiep/MagicMirror.git)
 (Original source from Magic Miror Offcial Website: https://magicmirror.builders/)
 ### STEP1. Installing a Magic Mirror
 Install the Magic Mirror using a script on the Internet
